@@ -1662,4 +1662,32 @@ body.ai-open .ai-panel-backdrop {
 
 .footer-brands img:hover {
   opacity: 1;
+}.footer {
+padding: 30px 20px;
+background: #0f1115;
 }
+
+.footer-inner {
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 24px;
+}
+
+.footer-rocksie {
+height: 24px;
+opacity: 0.85;
+}
+
+.footer-atex {
+display: flex;
+align-items: center;
+gap: 10px;
+color: #fff;
+font-size: 14px;
+}
+
+.footer-atex img {
+height: 28px;
+}
+
