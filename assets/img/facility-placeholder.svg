@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Facility placeholder</title>
+  <desc id="desc">Placeholder for manufacturing facility or company photo.</desc>
+  <rect width="1200" height="800" fill="#e7eef2" />
+  <rect x="60" y="80" width="1080" height="640" rx="24" fill="#f9fbfd" stroke="#c4d2db" stroke-width="6" />
+  <g fill="none" stroke="#91a6b2" stroke-width="8">
+    <rect x="140" y="180" width="320" height="220" />
+    <rect x="520" y="180" width="320" height="220" />
+    <rect x="900" y="180" width="180" height="220" />
+    <rect x="140" y="440" width="260" height="220" />
+    <rect x="440" y="440" width="260" height="220" />
+    <rect x="740" y="440" width="340" height="220" />
+  </g>
+  <text x="600" y="410" font-family="Barlow, sans-serif" font-size="40" fill="#4a5c68" text-anchor="middle">
+    Facility Image Placeholder
+  </text>
+</svg>

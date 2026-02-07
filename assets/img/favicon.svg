@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Apex ATEX Footwear">
+  <defs>
+    <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f18f3b" />
+      <stop offset="100%" stop-color="#f4c96d" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#badge)" />
+  <text x="64" y="78" text-anchor="middle" font-family="Rajdhani, sans-serif" font-size="72" fill="#0f1b24">A</text>
+</svg>

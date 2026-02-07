@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Compliance documentation placeholder</title>
+  <desc id="desc">Placeholder showing compliance documentation and certification support.</desc>
+  <rect width="1200" height="800" fill="#e7eef2" />
+  <rect x="70" y="90" width="1060" height="620" rx="24" fill="#ffffff" stroke="#c4d2db" stroke-width="6" />
+  <g fill="#d8e2e8">
+    <rect x="160" y="170" width="420" height="70" rx="14" />
+    <rect x="160" y="270" width="620" height="40" rx="10" />
+    <rect x="160" y="340" width="620" height="40" rx="10" />
+    <rect x="160" y="410" width="620" height="40" rx="10" />
+    <rect x="160" y="480" width="520" height="40" rx="10" />
+    <rect x="160" y="550" width="420" height="40" rx="10" />
+  </g>
+  <circle cx="860" cy="370" r="120" fill="#c4d2db" />
+  <text x="600" y="210" font-family="Barlow, sans-serif" font-size="38" fill="#4a5c68" text-anchor="middle">
+    Compliance Placeholder
+  </text>
+</svg>

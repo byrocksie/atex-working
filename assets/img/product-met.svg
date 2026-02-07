@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-labelledby="title desc">
+  <title id="title">Met guard boot placeholder</title>
+  <desc id="desc">Placeholder for met-guard safety boot image.</desc>
+  <rect width="900" height="700" fill="#eef3f6" />
+  <rect x="60" y="60" width="780" height="580" rx="26" fill="#ffffff" stroke="#c4d2db" stroke-width="6" />
+  <g fill="#d0dbe2">
+    <rect x="220" y="260" width="460" height="200" rx="60" />
+    <rect x="260" y="220" width="380" height="60" rx="20" />
+    <rect x="260" y="470" width="380" height="40" rx="20" />
+  </g>
+  <text x="450" y="190" font-family="Barlow, sans-serif" font-size="34" fill="#4a5c68" text-anchor="middle">
+    Met-Guard Boot Placeholder
+  </text>
+</svg>
